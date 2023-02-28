@@ -5,6 +5,8 @@ the [wildnode-kernel](https://github.com/waggle-sensor/wildnode-kernel) and [wil
 
 Source: [https://docs.nvidia.com/jetson/l4t/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/xavier_toolchain.html](https://docs.nvidia.com/jetson/l4t/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/xavier_toolchain.html)
 
+> Note: this repository uses [`git lfs`](https://git-lfs.com/) so be sure the machine you are cloning this repository to supports [`git lfs`](https://git-lfs.com/).
+
 ## Usage
 
 Extract the Toolchain
